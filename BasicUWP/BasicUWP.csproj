@@ -165,4 +165,5 @@
   <Target Name="AfterBuild">
   </Target>
   -->
+	<Target Name="_IsProjectRestoreSupported" />
 </Project>
